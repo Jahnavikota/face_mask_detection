@@ -1,12 +1,11 @@
-# face_mask_detection
 
-The entire code was performed in Jupitor NoteBook
+**Prerequisites for this project:
+We have to install below libraries in Anaconda Jupyter NoteBook**
+Make sure you use the upgraded version of pip to install below libraries.
 
-**Prerequired Installations: **
-tensorflow 
-keras 
-imutils 
-numpy 
-opencv-python 
-matplotlib 
-scipy 
+•	Tensorflow 
+•	Keras 
+•	Imutils 
+•	Numpy 
+•	Cv2
+
